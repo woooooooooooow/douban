@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/Program Files/Python/ArticleSpider/.idea/ArticleSpider.iml" filepath="C:/Program Files/Python/ArticleSpider/.idea/ArticleSpider.iml" />
+      <module fileurl="file://E:/proxy_pool-master/.idea/proxy_pool-master.iml" filepath="E:/proxy_pool-master/.idea/proxy_pool-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qukongge/.idea/qukongge.iml" filepath="$PROJECT_DIR$/../qukongge/.idea/qukongge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zhihutest.iml" filepath="$PROJECT_DIR$/.idea/zhihutest.iml" />
+    </modules>
+  </component>
+</project>
